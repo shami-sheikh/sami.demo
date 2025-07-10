@@ -1,5 +1,3 @@
 # sami.demo
-this is my first repository
-<br>
-auther-sami sehikh
+this is my first repository <br> auther-sami sehikh
 
